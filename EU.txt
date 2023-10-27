@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="file:style.css">
+</head>
+
+<body>
+
+
+<h1 style="font-size: 60px; font-weight: bold;">EUROPE</h1>
+
+<p></p>
+<hr></hr><hr></hr>
+<h1>Iceland volcano: Lava-spewing Fagradalsfjall 'subsiding'</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Radha Sengupta</p>
+<p style="font-size: 13px;">Updated: March 20, 2021 11:09 AM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:EU2.jpg">
+<p style="text-align: center; font-size: 15px;">The lava burst through cracks in the Earth's crust</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>A volcano which erupted on Friday night near Iceland's capital Reykjavik seems to be subsiding, scientists say. Lava at Fagradalsfjall burst through a crack in the Earth's crust hundreds of metres long and a series of small fountains turned the night sky red.</p>
+
+<p>Icelanders had been bracing themselves for an eruption for several weeks, after the island nation recorded more than 50,000 recent earthquakes. Meteorologists said the eruption was small and no-one was in danger.</p>
+
+<p>The last eruption there was some 800 years ago. In 2010, the eruption of another volcano, Eyjafjallajokull, brought air traffic to a halt across Europe. However, the eruption of Fagradalsfjall has not spewed out much ash, so no major disruption is expected.</p>
+
+<p>The biggest threat was pollution from the gases that had been released, and nearby residents were asked to keep their windows shut. But the Icelandic Meteorological Office (IMO) said in a report on Saturday that the pollution was likely to have little effect on the health and well-being of the area's inhabitants.</p>
+
+<p>Officials quoted by AFP news agency said that the area of the eruption was open to the public, but could only be accessed by a difficult hike of several hours from the nearest road.</p>
+
+<p>There is also a potential danger from sulphur dioxide gas. "Currently gas pollution is not expected to cause much discomfort for people except close up to the source of the eruption. The gas emissions will be monitored closely," the IMO said.</p>
+
+<p>The IMO said the eruption of Fagradalsfjall began at about 20:45 GMT on Friday, and was later confirmed via webcams and satellite images.
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+<p></p>
+<center><img src="file:EU1.jpg">
+<p style="text-align: center; font-size: 15px;">A coastguard helicopter was sent to survey the area, about 30km (19 miles) from Reykjavik</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>The helicopter then sent first images of the lava snaking its way down after the eruption.</p>
+
+<p>"I can see the glowing red sky from my window," said Rannveig Gudmundsdottir, who lives in Grindavik, 8 km (5 miles) from the eruption.</p>
+
+<p>A magnitude 3.1 earthquake was recorded 1.2 km from Fagradalsfjall just several hours earlier.</p>
+
+<p>Iceland frequently experiences tremors as it straddles two tectonic plates, which are drifting in opposite directions.</p>
+
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>Finland ranked happiest country in the world - again</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Rati Bhagat</p>
+<p style="font-size: 13px;">Updated: March 18, 2021 09:31 AM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:EU3.jpg">
+<p style="text-align: center; font-size: 15px;">Finland has been named the happiest country for a fourth year running</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>Finland has been named the happiest place in the world for a fourth year running, in an annual UN-sponsored report. The World Happiness Report saw Denmark in second place, then Switzerland, Iceland and the Netherlands.</p>
+
+<p>New Zealand was again the only non-European nation in the top 10. The UK fell from 13th to 17th place.</p>
+
+<p>Data from analytics researcher Gallup asked people in 149 countries to rate their own happiness. Measures including social support, personal freedom, gross domestic product (GDP) and levels of corruption were also factored in.</p>
+
+<p>The country deemed the most unhappy in the world was Afghanistan, followed by Lesotho, Botswana, Rwanda and Zimbabwe.</p>
+
+<p>There was a "significantly higher frequency of negative emotions" in just over a third of the countries, the report authors said, likely pointing to the effects of the pandemic.</p>
+
+<p>However, things got better for 22 countries. Several Asian countries fared better than they had in last year's rankings, while China moved to 84th place from 94th.</p>
+
+<p>"Surprisingly there was not, on average, a decline in well-being when measured by people's own evaluation of their lives," John Helliwell, one of the report's authors, said in a statement. "One possible explanation is that people see Covid-19 as a common, outside threat affecting everybody and that this has generated a greater sense of solidarity and fellow-feeling."</p>
+
+<p>Finland "ranked very high on the measures of mutual trust that have helped to protect lives and livelihoods during the pandemic", the authors said.</p>
+
+<p>The Nordic nation of 5.5 million people has managed far better than the majority of Europe during the pandemic, with just over 70,000 cases and 805 deaths, according to Johns Hopkins University.</p>
+
+<p>According to the report, the ten happiest countries are:</p>
+
+<ol>
+<li>Finland</li>
+<li>Denmark</li>
+<li>Switzerland</li>
+<li>Iceland</li>
+<li>Netherlands</li>
+<li>Norway</li>
+<li>Sweden</li>
+<li>Luxembourg</li>
+<li>New Zealand</li>
+<li>Austria</li>
+</ol>
+
+
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>France and Poland increase lockdown measures as infections surge</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Alex Elledge</p>
+<p style="font-size: 13px;">Updated: March 21, 2021 12:32 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:EU4.jpg">
+<p style="text-align: center; font-size: 15px;">A street mural celebrating health workers in Paris</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>France and Poland have reintroduced partial lockdowns as both countries battle a sharp rise in Covid infections in recent weeks.</p>
+
+<p>Some 21 million people in 16 areas of France, including the capital Paris, are affected as the country fears a third wave. In Poland, non-essential shops, hotels, cultural and sporting facilities are now closed for three weeks. The country has the highest new daily rates of Covid cases since November.</p>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+<p></p>
+<center><img src="file:EU5.jpg">
+<p style="text-align: center; font-size: 15px;">The Old Town in the Polish capital Warsaw has been almost deserted in recent days</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>Coronavirus cases are also rising exponentially in Germany, with Chancellor Angela Merkel warning it is likely that the country will now need to apply an "emergency brake" and re-impose lockdown measures.</p>
+
+<p>The vaccine rollout across the European Union has been hindered by delayed deliveries, as well as the suspension in several countries of the use of the Oxford-AstraZeneca Covid-19 vaccine, over fears of possible side effects.</p>
+
+<p>Meanwhile demonstrations against coronavirus restrictions have affected several European cities.</p>
+
+<p>In Amsterdam, police fired water cannon to clear protesters from Museum Square, a frequent venue for unauthorised demonstrations. Online footage showed a police dog handler prodding a woman in the chest with his baton and twice hitting a man who tried to protect her. And in the central German city of Kassel, police said they used pepper spray and batons to disperse demonstrators who tried to break through a cordon. Video footage posted on social media showed water cannon also being deployed. "This is not what a peaceful protest looks like," police tweeted (in German).</p>
+
+<p>Protesters were also detained during an anti-lockdown protest in Hyde Park, London, and several thousand people gathered to protest against Covid restrictions in the small Swiss town of Liestal, near Basel.</p>
+
+<p>Demonstrations were also reported in Berlin, Helsinki and Vienna.</p>
+
+
+</body>
+</html>

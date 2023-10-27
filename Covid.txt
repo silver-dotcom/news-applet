@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="file:style.css">
+</head>
+
+<body>
+
+
+<h1 style="font-size: 60px; font-weight: bold;">COVID-19</h1>
+
+<p></p>
+<hr></hr><hr></hr>
+<h1>Gujarat bans Holi celebrations, Rajasthan makes negative report must for visitors</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Ankit Krishnan</p>
+<p style="font-size: 13px;">Updated: March 21, 2021 07:19 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Covid1.jpg">
+<p style="text-align: center; font-size: 15px;">For the first time in 2021, the number of active cases of COVID-19 infections have crossed the 3 lakh mark on March 21</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+
+<p>Amid a sharp surge of Covid cases, India has sent out record corona vaccines doses to foreign nations. According to Health Minister Dr Harsh Vardhan, more than 6 crore doses of corona vaccine have been sent to 76 nations. In comparison to that, around 4.5 crore doses of COVID jabs have been administered across India as of Sunday.</p>
+
+<p>In yet another worrying spike, India detected 43,846 new coronavirus cases today. Releasing the 24-hour data, the Union Health Ministry's daily bulletin stated that the national recovery rate from the COVID-19 infection has dropped to 95.96 per cent. In terms of fatalities, 197 individuals lost their lives. This was the highest number of deaths recorded in the last 97 days. The daily increase in the number of fresh COVID-19 infections is the continuing upward trend for the last 11 days. The daily increase also shows that India is in grip of the second wave of the coronavirus pandemic.</p>
+
+<p>As the nation marks the first anniversary of the national coronavirus lockdown on March 23, little has changed on the streets. Videos of people misbehaving when told to cover their face with masks have become a regular trend on social media. The state-wise tally shows that Maharashtra has once again become the epicentre of the second wave of COVID-19 infections. Madhya Pradesh has decided to resume the total lockdowns on weekends. Tamil Nadu has ordered the shutting down of all educational institutions till March 31st. Ghaziabad and Noida have enforced Section 144 due to a sudden rise in the caseload.</p>
+
+<p>Though the mass vaccination is going on decently, with eligible beneficiaries taking the COVID jabs, the problem is with those who don't have any sort of mask discipline. In fact, health experts have warned that even vaccinated individuals must continue wearing masks. Until we learn to open up the economy in a responsible way and learn the new normal of 'Work From Home' and sanitisers, we will have a very long waiting period before the pandemic becomes endemic in nature.</p>
+
+
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>Colleges urge hostel residents to return home</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Tanu Kulkarni</p>
+<p style="font-size: 13px;">Updated: March 20, 2021 01:22 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Covid2.jpg">
+<p style="text-align: center; font-size: 15px;">Four final year students of Maharani Cluster University appeared for the examination on Friday</p>
+<p style="text-align: center; font-size: 15px;">with PPE kit as they were primary contacts of a student who had tested positive for COVID-19</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<h3>Some are making an exception for students from distant places</h3>
+
+<p>Worried about COVID-19 spreading to resident students, colleges and universities are encouraging their faculty to conduct classes online if it is feasible. Many are also urging students to return to their homes.</p>
+
+<p>This comes in the wake of a students and staff member at Maharani Cluster University testing positive. Vice-chancellor Gomathi Devi L. said that they have asked first and third semester students, who reside in hostels, to return home. "Their term ended on Thursday. We asked students to go back home. We have instructed lecturers to conduct classes online if portions have not been completed," she said. </p>
+
+<p>She added that a few students who have examinations and some students who have come from North Eastern States have been allowed to stay back. Examinations for first and third semester students will commence on April 5.</p>
+
+<p>K.R. Venugopal, Vice Chancellor, Bangalore University said that they have asked students who live 40 kilometres from their campus to return home if possible. "We have told students that if it is convenient for them, they should go back to their residences. Only outstation students should stay on campus," he said. Colleges and hostels have also tightened protocols.</p>
+
+<p>K.N. Subramanya, principal of R.V. College of Engineering, said that they plan to increase the frequency of testing. "We would earlier conduct random RT-PCR tests on our faculty and students every 20 days. Now we have decided to conduct tests every two weeks," he said. </p>
+
+<h3>Students wear PPE kit</h3>
+
+<p>Four final year students of Maharani Cluster University appeared for the examination on Friday with PPE kit as they were primary contacts of a student who had tested positive for COVID-19.</p>
+
+<p>Gomathi Devi L., Vice Chancellor of Maharani Cluster University Bengaluru, said that BBMP had made arrangements for an ambulance and told students to wear a PPE kit. They appeared for the examination in separate rooms. The COVID-19 test of the four students later revealed that they were negative.</p>
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>Statement of the WHO Global Advisory Committee on Vaccine Safety (GACVS) COVID-19 subcommittee on safety signals related to the AstraZeneca COVID-19 vaccine</h1>
+<hr></hr>
+<p style="font-size: 13px;">By WHO</p>
+<p style="font-size: 13px;">Updated: March 20, 2021 05:29 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Covid3.jpg">
+<p style="text-align: center; font-size: 15px;">Staff member handles AstraZeneca COVID-19 vaccines in storage at a vaccine centre in Copenhagen</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>As of 17 March 2021, more than 120 million cases of COVID-19 infections, with more than 2 million deaths, had been reported globally.  Vaccination remains a critical tool to help prevent further illness and death and to control the pandemic.</p>
+
+<p>So far, more than 20 million doses of the AstraZeneca vaccine have been administered in Europe and more than 27 million doses of the Covishield vaccine (AstraZeneca vaccine by Serum Institute of India) have been administered in India.</p>
+
+<p>The GACVS COVID-19 subcommittee met virtually on 16 and 19 March 2021 to review available information and data on thromboembolic events (blood clots) and thrombocytopenia (low platelets) after vaccination with the AstraZeneca COVID-19 vaccine.</p>
+
+<p>The subcommittee reviewed clinical trial data and reports based on safety data from Europe, the United Kingdom, India, and Vigibase, the WHO global database of individual case safety reports. Based on a careful scientific review of the available information, the subcommittee came to the following conclusions and recommendations: </p>
+
+<ul>
+<li>The AstraZeneca COVID-19 vaccine (including Covishield) continues to have a positive benefit-risk profile, with tremendous potential to prevent infections and reduce deaths across the world.</li>
+<li>The available data do not suggest any overall increase in clotting conditions such as deep venous thrombosis or pulmonary embolism following administration of COVID-19 vaccines. Reported rates of thromboembolic events after COVID-19 vaccines are in line with the expected number of diagnoses of these conditions. Both conditions occur naturally and are not uncommon. They also occur as a result of COVID-19.  The observed rates have been fewer than expected for such events.</li>
+<li>While very rare and unique thromboembolic events in combination with thrombocytopenia, such as cerebral venous sinus thrombosis (CVST), have also been reported following vaccination with the AstraZeneca COVID-19 vaccine in Europe, it is not certain that they have been caused by vaccination. The European Medicines Agency's Pharmacovigilance and Risk Assessment Committee has reviewed 18 cases of CVST out of a total of more than 20 million vaccinations with the AstraZeneca COVID-19 vaccine in Europe. A causal relationship between these rare events has not been established at this time.</li>
+<li>Adequate education should be provided to health-care professionals and persons being vaccinated to recognize the signs and symptoms of all serious adverse events after vaccinations with all COVID-19 vaccines, so that people may seek and receive prompt and relevant medical care and treatment.</li>
+<li>The GACVS subcommittee recommends that countries continue to monitor the safety of all COVID-19 vaccines and promote reporting of suspected adverse events.</li>
+<li>The GACVS subcommittee also agrees with the European Medicines Agency's plans to further investigate and monitor for these events.</li>
+</ul>
+
+<p>The GACVS COVID-19 subcommittee will continue to review the safety data from all COVID-19 vaccines and update any advice as necessary. The WHO COVID-19 vaccine safety surveillance manual provides guidance to countries on the safety monitoring and adverse events data sharing for the new COVID-19 vaccines.</p>
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>How this Indian firm is vaccinating the world</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Chiyo Robertson</p>
+<p style="font-size: 13px;">Updated: March 17, 2021 08:43 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Covid4.jpg">
+<p style="text-align: center; font-size: 15px;">Serum Institute of India is involved in the world's largest inoculation programme in India</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<h3>As pharmaceutical giants ramp up production in the race to vaccinate the world, one firm has shot into the lead.</h3>
+
+<p>The Serum Institute of India (SII) isn't a household name, but it's the world's largest vaccine maker. The firm churns out 1.5 billion doses every year from the company's vast manufacturing plant in Pune, Western India. It is currently making Covid vaccines under license for pharmaceutical firms such as AstraZeneca. "We took a huge calculated risk", by betting on several vaccines in 2020 before regulators had even approved of them, SII's chief executive Adar Poonawalla told the BBC.</p>
+
+<p>"It wasn't a blind risk, because we knew the Oxford scientists from our earlier collaboration with the malaria vaccine."</p>
+
+<p>SII is privately owned, which enabled fast decision-making between Mr Poonawalla and his scientists. But funding proved a challenge. The firm invested around $260m and raised the rest from philanthropists, such as Bill Gates, and advances from other countries. SII managed to secure $800m by May 2020 to make multiple Covid vaccines.</p>
+
+<h3>Stashing away doses</h3>
+
+<p>How did SII actually scale up production? In April 2020, Mr Poonawalla calculated what they would need, from vials and filters.</p>
+
+<p>"I got 600 million doses worth of glass vials ahead of time and locked it in my warehouse by September," he explained. "The most important part that enabled us to have so many doses - 70-80 million in January - was because I started manufacturing at risk in August. I wish other companies also had taken that risk, because the world would have had many more doses."</p>
+
+<p>Poonawalla criticised the patchwork of global regulatory systems and lack of harmonisation for production delays. He said the major regulators, including the UK's Medicines and Healthcare products Regulatory Agency (MHRA), the European Medicines Agency (EMA) and the US Food and Drug Administration (FDA), could have united and agreed a quality standard.</p>
+
+<p>He also criticised national governments, claiming that regulators in the countries that are making the vaccines, from India to Europe, could have united to agree a standard international benchmark.</p>
+
+<p>"Why can't we still harmonise it and save all this time, especially even for the new vaccines. I'd hate to have to go through all this again."</p>
+
+<h3>New variants</h3>
+
+<p>Mr Poonawalla played down concerns about new variants: "Anyone who has taken that [Oxford AstraZeneca] vaccine so far hasn't had to go to hospital or go on a ventilator and had their life at risk. "They've also passed that disease on to others. So yes, it's not an ideal situation, but it has protected your life."</p>
+
+<p>In India, SII is also involved the world's largest inoculation programme, to vaccinate 300 million by August. But, according to Bloomberg, only 56% of people eligible to get a shot have actually stepped forward. "A lot of vaccine hesitancy traditionally has come about when either celebrities or non-experts have said vaccines are not safe," said Mr Poonawalla.</p>
+
+<p>"I always just request celebrities and others who have this tremendous power on the social networks, to just be a bit responsible and read up on the facts before they say anything."</p>
+
+
+</body>
+</html>

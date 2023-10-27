@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="file:style.css">
+</head>
+
+<body>
+
+
+<h1 style="font-size: 60px; font-weight: bold;">FOOTBALL</h1>
+
+<p></p>
+<hr></hr><hr></hr>
+<h1>Suarez scores 500th career goal in Atletico win</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Aryan Kothari</p>
+<p style="font-size: 13px;">Updated: March 21, 2021 02:14 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Football1.jpg">
+<p style="text-align: center; font-size: 15px;">Luis Suarez's winner against Alaves was his 19th goal for Atletico Madrid</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>Luis Suarez scored his 500th career goal to give La Liga leaders Atletico Madrid victory over Alaves.</p>
+
+<p>The Uruguay forward reached the milestone by heading home Kieran Trippier's cross in the second half. It was his 19th goal for Atleti, while the 34-year-old has also scored 198 goals for Barcelona, 82 for Liverpool, and 63 for Uruguay.</p>
+
+<p>Jan Oblak saved a late Joselu penalty to ensure Atletico remained four points clear at the top of La Liga.</p>
+
+<p>Barcelona ensured they kept the pressure on Diego Simone's side, thrashing Real Sociedad 6-1 in Sunday's late kick-off - a win that saw Lionel Messi mark his record 768th appearance with a second-half double.</p>
+
+<p>Suarez began his career at Uruguay side Club Nacional, where he scored 12 goals, before moving to Eredivisie outfit Groningen where he netted 15 times. He joined Ajax in 2007, adding 111 goals before he joined Liverpool in 2011 and then Barcelona in 2014.</p>
+
+
+
+
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>Messi celebrates record Barca appearance with two goals in thrashing of Sociedad</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Shweta Sahni</p>
+<p style="font-size: 13px;">Updated: March 21, 2021 02:50 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Football2.jpg">
+<p style="text-align: center; font-size: 15px;">Messi scored 2 and assisted Sergino Dest's first Barcelona goal</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>Lionel Messi celebrated a record-breaking 768th appearance for Barcelona with two goals as the Spanish giants thrashed Real Sociedad 6-1 in La Liga.</p>
+
+<p>The Argentina forward, 33, moved one game clear of former midfielder Xavi's total as Barca closed the gap on leaders Atletico Madrid to four points.</p>
+
+<p>Antoine Griezmann opened the scoring, Sergino Dest scored twice and Ousmane Dembele also found the net.</p>
+
+<p>Messi has now scored 23 league goals so far this season.</p>
+
+<p>At 5-0 down, Ander Barrenetxea did manage to find a consolation goal for Sociedad with arguably the strike of the night, but it was far too late for Imanol Alguacil's side to stage a fightback at the Anoeta Stadium.</p>
+
+<p>Messi did not disappoint on his history-making night, showing the same energy and enthusiasm he has done throughout his career for the Catalan club. </p>
+
+<p>His first major act was to turn provider for American Dest to score his first goal for Barcelona. The threaded through-ball also took Messi's assist tally up to eight for the 2020-21 season. After testing Sociedad goalkeeper Alex Remiro twice in the first half, Messi finally grabbed a well-deserved reward during the second half by poking home Barca's fourth. The icing on the cake for Messi came on 89 minutes when the Argentine's good link-up play with left-back Jordi Alba resulted in a second goal on his special night.</p>
+
+<p>As much as the three points were a welcome birthday gift for boss Ronald Koeman, Barca still trail league leaders Atletico Madrid in the race to become champions.</p>
+
+<p>Earlier on Sunday, Diego Simeone's men beat Alaves 1-0, thanks to Luis Suarez's 500th career goal and a late Jan Oblak penalty save.</p>
+
+<h3>The history man adds to his records</h3>
+
+<p>The king of the Nou Camp will become a free agent this summer when his contract expires, but his statistics for the famous club may never be beaten. Thanks to his double against Sociedad, Messi has extended his tally as Barca's record goalscorer to 663 goals in all competitions.</p>
+
+<p>When it comes to La Liga's all-time top scorer, he is out in front with 467 goals. That's 156 more than closest rival Cristiano Ronaldo's 311 for Real Madrid. He has also chalked up at least 20 goals in La Liga in 13 consecutive seasons, the highest record in the competition.</p>
+
+<p>Less than three months into 2021, Messi has already scored 15 goals in the 12 games he has played. And with another El Clasico on the horizon following the international break, the playmaker will be looking to top up his tally of 26 goals in all competitions against rivals Real Madrid - the most any player has scored in the fixture.</p> 
+
+
+
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>Fred racially abused online after Manchester United's defeat by Leicester</h1>
+<hr></hr>
+<p style="font-size: 13px;">By PA</p>
+<p style="font-size: 13px;">Updated: March 21, 2021 09:29 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Football3.jpg">
+<p style="text-align: center; font-size: 15px;">Fred was at fault for Leicester's opening goal against Manchester United</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>The Manchester United midfielder Fred was the subject of racist abuse after his side's 3-1 FA Cup quarter-final defeat to Leicester on Sunday.</p>
+
+<p>Fred was at fault for Leicester's opening goal when he gifted the ball to Kelechi Iheanacho in front of goal, and the Leicester striker rounded the goalkeeper Dean Henderson to slot home.</p>
+
+<p>After the match, the 28-year-old's Instagram account became the target of abuse online, with several of the comments racial in nature.</p>
+
+<p>The Brazil international is one of several United players to be subjected to abuse in recent weeks. Marcus Rashford posted a statement about comments directed at him in late January, while Anthony Martial and Axel Tuanzebe were also targeted, as well Lauren James of the women’s team.</p>
+
+<p>Manchester United have previously condemned abuse directed at their players by "mindless idiots".</p>
+
+<p>"Manchester United has zero tolerance of any form of racism or discrimination and a longstanding commitment to campaigning against it through our All Red All Equal initiative," a statement read.</p>
+
+
+</body>
+</html>

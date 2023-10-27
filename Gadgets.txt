@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="file:style.css">
+</head>
+
+<body>
+
+
+<h1 style="font-size: 60px; font-weight: bold;">GADGETS</h1>
+
+<p></p>
+<hr></hr><hr></hr>
+<h1>How to recharge your FASTag using Google Pay app</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Jagmeet Singh</p>
+<p style="font-size: 13px;">Updated: March 21, 2021 09:50 AM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Gadgets1.jpg">
+<p style="text-align: center; font-size: 15px;">Google Pay lets you recharge your FASTag account while on-the-go</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>FASTag recharge can come in handy when you're travelling from one city to another and don't have an appropriate balance in your FASTag account. Various apps offer FASTag recharge options. In this article, we'll talk about how you can recharge your FASTag using Google Pay. Google introduced UPI recharge option for FASTag users through the Google Pay app in January last year. It lets you easily recharge your FASTag account that you can use to make seamless toll payments while crossing city borders in India.</p>
+
+<p>Before getting started, it is important to note that you must know your FASTag-issuing bank to recharge accurately. You also need to link your FASTag account before making any recharges.</p>
+
+<h3>How to recharge your FASTag using Google Pay</h3>
+
+<p>Since you need to link your FASTag account first, below are the steps that cover the linking part as well as provide the details about how you can recharge your FASTag using Google Pay.</p>
+
+<ol>
+<li>Open the Google Pay app on your Android smartphone or iPhone.</li>
+<li>Now, tap on the New Payment button.</li>
+<li>Type "FASTag" in the search bar.</li>
+<li>Scroll down to find the issuing bank of your FASTag and select the one accurately.</li>
+<li>Now, tap on the Get started button.</li>
+<li>You'll now be required to enter your vehicle number (without spaces) and give an account name such as “my car” or the name of your car model for easy access in the future.</li>
+<li>Tap on the Link account button from the bottom of the screen.</li>
+<li>Review your account information, including the account holder name and vehicle number.</li>
+<li>Once reviewed, press the Link account button. Your FASTag account will now be linked to Google Pay.</li>
+<li>Now, you'll see the screen that will have your FASTag account. Tap on the Pay button from there to make the payment (minimum of Rs. 200).</li>
+<li>Press the tick button.</li>
+<li>Now, tap on the Pay button from the bottom of the screen.</li>
+<li>The Google Pay app will now ask you to enter your UPI Pin to proceed the payment.</li>
+</ol>
+
+
+<p>Once the payment is done, you'll receive an SMS message from your bank account linked with Google Pay. You'll also be able to make future payments to your linked FASTag account on the Google Pay app by going to the Businesses & bills section.</p>
+
+
+
+
+
+
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>Cool gadgets to buy under Rs. 500: Wireless Mouse, Gorilla Tripod and more</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Mayur Nanda</p>
+<p style="font-size: 13px;">Updated: March 18, 2021 10:40 AM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Gadgets2.jpg">
+<p style="text-align: center; font-size: 15px;">Amazon and Flipkart offer unique gadgets priced under Rs. 500</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>Amazon and Flipkart act as online marketplaces for a host of things. Apart from smartphones, you can buy accessories, small gadgets like speakers, headphones, and many other things on e-commerce sites. There are so many options on these sites that sometimes it gets difficult to discover the right products. If you're looking to stock up on cool gadgets without shelling out too much money, we've listed some quirky gadgets under Rs. 500 that you can buy right now via online sites like Amazon or Flipkart.</p>
+
+<p></p>
+<h3>Flipkart SmartBuy M7012 Wireless Optical Mouse</h3>
+<p>Anyone who hates using a trackpad on a laptop will understand the importance of a wireless mouse. While a good one often tends to be priced a little more than Rs. 500, Flipkart is offering a light-weight wireless mouse in its SmartBuy range for just Rs. 349.</p>
+<p><b>Buy it on Flipkart at Rs. 349</b></p>
+
+<p></p>
+<h3>AmazonBasics Universal Bike Phone Mount Holder</h3>
+<p>This could be a useful purchase if you use Google Maps or other navigation services a lot. The holder will let you prop your smartphone on to the handle of your bike, allowing you easy and uninterrupted access to your phone's screen. Amazon says it is made of a premium hard plastic and has an anti-slip stretchable rubber band and silicone net for better strength and stretchability. It is capable of 360-degree rotation for creating an optimal viewing angle and is compatible with smartphones up to 3.5 inches wide. It fits handlebars with a diameter of 0.7-1.3 inches.</p>
+<p><b>Buy it on Amazon at Rs. 469</b></p>
+
+<p></p>
+<h3>LKMO Octopus Gorilla Tripod</h3>
+<p>This extremely affordable tripod could be an option for novice photographers to purchase. It has a height of 13-inch and is touted to be travel-friendly in terms of design and weight. Users can prop their smartphones or DSLR cameras on to the tripod, and it is said to be made of medical-grade ABS plastic and stainless steel. The company notes that it has been designed to support imaging devices weighing up to 1.2kg.</p>
+<p><b>Buy it on Amazon at Rs. 339</b></p>
+<p><b>Buy it on Flipkart at Rs. 349</b></p
+
+<p></p>
+<h3>Frittle Pen Stand/ Bluetooth Speaker</h3>
+<p>This pen stand doubles up as a Bluetooth speaker whenever you want it to. This compact hybrid speaker supports stereo sound, has a built-in microphone for taking calls, and is said to offer some level of water and dust protection. The speaker weighs only 80 grams so you can carry it around wherever you like. The box includes a Micro-USB charging cable.</p>
+<p><b>Buy it on Amazon at Rs. 389</b></p>
+
+<p></p>
+<h3>All in One Combo Card Reader</h3>
+<p>This budget-friendly multiple memory card reader comes with a compact portable design for easy lugging. It supports various cards like T-Flash card, MS, MS Pro, Ms Duo, MS Pro Duo, Mini SD, SD, MMC, RS MMC and Micro MS (M2). It will attach onto any laptop and allow you extended connectivity.</p>
+<p><b>Buy it on Amazon at Rs. 329</b></p>
+<p><b>Buy it on Flipkart at Rs. 399</b></p>
+
+<p></p>
+<h3>SaleOn Portable USB LED Desk Lamp</h3>
+<p>This portable LED desk lamp is great for working in the wee hours of the night on your laptop. You can just attach it via the USB port and the flexible loop lets you focus the light anywhere you desire. This can also be used as a book-reading lamp or can be fitted in any low light area for better light. Its power consumption is listed to be less than 40mA.</p>
+<p><b>Buy it on Amazon at Rs. 329</b></p>
+
+<p></p>
+<h3>Mobile Screen Expander</h3>
+<p>This portable phone projector will let you expand the screen on your phone on a budget. This portable gadget claims to magnify the smartphone screen by up to five times. The portable projector has a super thick screen that is easy to use, and no charging is required. A similar mobile screen expander is available on Flipkart as well, under a different brand.</p>
+<p><b>Buy it on Amazon at Rs.349</b></p>
+<p><b>Buy it on Flipkart at Rs. 335</b></p>
+
+
+
+</body>
+</html>

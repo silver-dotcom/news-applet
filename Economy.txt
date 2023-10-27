@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="file:style.css">
+</head>
+
+<body>
+
+
+<h1 style="font-size: 60px; font-weight: bold;">ECONOMY</h1>
+
+<p></p>
+<hr></hr><hr></hr>
+<h1>India's economy may grow at 12% in 2021: Moody's</h1>
+<hr></hr>
+<p style="font-size: 13px;">By PTI</p>
+<p style="font-size: 13px;">Updated: March 19, 2021 05:35 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Economy1.jpg">
+<p style="text-align: center; font-size: 15px;">A stronger than expected December quarter GDP growth of 0.4 per cent following a 7.5 per cent contraction</p><p style="text-align: center; font-size: 15px;">in the previous three months has turned India's near-term prospects more favourable, it said.</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>India's economy is likely to grow by 12 per cent in 2021 following a 7.1 per cent contraction last year, as near-term prospects have turned more favourable, Moody's Analytics said.</p>
+
+<p>A stronger than expected December quarter GDP growth of 0.4 per cent following a 7.5 per cent contraction in the previous three months has turned India's near-term prospects more favourable, it said.</p>
+
+<p>Domestic and external demand has been on the mend since the easing of restrictions, which has led to improved manufacturing output in recent months.</p>
+
+<p>"We expect private consumption and nonresidential investment to materially pick up over the next few quarters and strengthen the domestic demand revival in 2021," it said.</p>
+
+<p>Moody's saw real GDP growth of 12 per cent in the 2021 calendar year, partially due to a low base-year comparison.</p>
+
+<p>"This forecast is equivalent to real GDP, in level terms, growing by 4.4 per cent above pre-COVID-19 levels (as of March 2020) by the end of 2021, or equivalently, by 5.7 per cent above the GDP level in December 2020 by the end of 2021," it said.</p>
+
+<p>It said monetary and fiscal policy settings will remain conducive to growth. "We do not expect any additional rate cuts this year below the current 4 per cent at which the benchmark repurchase rate is being maintained," it said. It saw some additional fiscal support being mobilised during the second half of the year, depending on the softness in domestic spending.</p>
+
+<p>Direct forms of fiscal support such as income tax cuts, however, are less likely in the current setting.</p>
+
+<p>"We expect the budget for fiscal 2021-2022 to drive the annual fiscal deficit to nearly 7 per cent of GDP," it said. "It includes additional expenditure on infrastructure development, and the associated benefits in the form of employment creation should accrue over the coming quarters."</p>
+
+<p>Core inflation is likely to see a more controlled rise in 2021, although food-price or fuel-driven inflation can become a recurring factor, weighing on household disposable income.</p>
+
+<h3>Moody's Analytics said a strengthening second wave of COVID-19 remains the key risk to recovery in 2021.</h3>
+
+<p>
+"The good news is that the resurgence appears to be limited to just a few states, which should increase the chances of containing the spread at an early stage," it said. "Our baseline forecasts assume that state governments are likely to adopt a targeted approach through limited-duration curfews and shutdowns if the situation deteriorates rather than large-scale shutdowns of the kind seen during the first wave."</p>
+
+<p>Vaccinations hold the key to sustaining domestic recovery. Total vaccinations crossed the 35 million mark on March 16.</p>
+
+<p>"However, the various logistical constraints and the sheer scale of implementation could negatively impact the pace of inoculations in the months ahead and eventually the timing of achieving herd immunity," it said. "Our March baseline forecast assumes that herd immunity is unlikely to be reached before the end of 2022."</p>
+
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>As economy unlocks, discretionary spending eats into household savings</h1>
+<hr></hr>
+<p style="font-size: 13px;">By ENS Economic Bureau</p>
+<p style="font-size: 13px;">Updated: March 22, 2021 04:05 AM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Economy2.jpg">
+<p style="text-align: center; font-size: 15px;">The reversion is mainly driven by the increase in household borrowings from banks and NBFCs accompanied by a</p><p style="text-align: center; font-size: 15px;">moderation in household financial assets in the form of mutual funds and currency.</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>The Reserve Bank of India's (RBI's) preliminary estimates have revealed a substantial waning of the household financial savings rate to 10.4 per cent of GDP in the second quarter (Q2) of 2020-21 from the high of 21 per cent in the preceding quarter. This is because households switched from an 'essentials only' spending to discretionary spending with the gradual reopening and unlocking of the economy, it said.</p>
+
+<p>Household debt to GDP ratio, which has been steadily increasing since Q1 of 2018-19, rose sharply to 37.1 per cent in Q2 of 2020-21 from 35.4 per cent in Q1 of 2020-21, the RBI said in its report on household financial savings. "Nonetheless, households' financial savings rate for Q2 of 2020-21 ruled higher than that of 9.8 per cent witnessed in Q2 of 2019-20," it said.</p>
+
+<p>According to the RBI, the moderation in household financial savings has taken place despite an increase in their financial assets, as the flow of financial liabilities returned to positive territory on the back of loans from banks and NBFCs in Q2 of 2020-21. "Households' financial savings rate might have fallen further in Q3 of 2020-21 with the intensification of consumption and economic activity.</p>
+
+<p>It said household financial savings have moderated despite an increase in the savings in the form of deposits as household borrowings from banks and NBFCs have picked up. On January 22, 2021, the RBI proposed a revised regulatory framework for NBFCs based on a four-layered structure that would allow big NBFCs to be regulated like banks. When implemented, this may impact the distribution of household portfolio between banks and non-banks. A significant decline in household savings, in the form of currency and mutual funds, has also contributed to the moderation in household financial savings. Savings in the form of insurance funds have remained elevated, despite moderation in accretion in Q2 of 2020-21, the RBI said.</p>
+
+<p>The reversion is mainly driven by the increase in household borrowings from banks and NBFCs accompanied by a moderation in household financial assets in the form of mutual funds and currency.</p>
+
+<p>Increased household consumption, particularly its discretionary component, could be attributed to resumption in economic activity following the easing of lockdown. The reversal in household financial savings is corroborated by the lower surplus in the current account balance, the RBI said.</p>
+
+<p>Although, the share of various instruments on the asset side of household portfolio has broadly remained unchanged during Q1 of 2018-19 to Q2 of 2020-21, the share of currency holding - which increased during Q1of 2020-21, reflecting flight to cash under extreme uncertainty - has reversed to its pre-pandemic levels with the resumption of economic activity in Q2.</p>
+
+<p>It said aggregate bank deposits with scheduled commercial banks (SCBs) in India steadily rose and touched Rs 142.6 lakh crore at end-September 2020, an increase of Rs 4 lakh crore since June-end of 2020. In contrast, bank advances at Rs 102.7 lakh crore at end-September displayed a pick up by 0.2 per cent on a q-o-q basis, as against a contraction of 1.2 per cent in June 2020.</p>
+
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>Fifty years ago too India had a robust gig economy</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Sundeep Khanna</p>
+<p style="font-size: 13px;">Updated: March 21, 2021 09:03 AM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Economy3.jpg">
+<p style="text-align: center; font-size: 15px;">(Representational Image)</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<h3>Fifty years ago, India's GDP was barely $70 billion. Today, just the gig economy is estimated to be around $250 billion and expected to grow to $455 billion by 2023.</h3>
+
+<p>Last week I got my first haircut in almost a year. Succumbing to the constant advertising on television as well as pictures of well-coiffed heads on social media, I decided to try the at-home service from one of the gig companies. It turned out to be an extremely pleasant and professional experience, and I have to admit I have been missing out by not calling them earlier. In fact, given the hygiene, the punctuality and the overall efficiency, I doubt I will ever go back to a salon unless it is to pick up some local gossip.</p>
+
+<p>However, I am here not to praise the gig economy but to tell its purveyors that much of it is old hat. It wasn’t uncommon for barbers to come home when we were growing up in the 1970s. The big difference is that these services were then the preserve of a few rich people. Indeed, a haircut while lounging in an easy chair, followed by a luxurious oil massage was the marker for zamindars of the era who seemed to spend all their time in their bagan baris (garden homes) smoking hookahs and being administered to by various minions.</p>
+
+<p>Nor was this gig-economy 1.0 restricted merely to shearing and shimmering of men's heads and bodies. A whole host of other service providers were available on call and would come home to do the needful. Among the more intriguing of these is dental services, including I am reliably informed, tooth extraction jobs. Given how complex they appear today involving multiple trips to the clinic, it’s a wonder how effortlessly these visiting dentists did the same job.</p>
+
+<p>Another common service that seems to have gone extinct, was tinning the pans (kalai), a 600-year-old process that made brass utensils safer to cook in besides giving them a lustre. As kids, we would gather around fascinated by the burning and washing. Not so popular was the carding of old quilts that was performed by visiting vendors carrying their kaman and dhunaki. While the sound made by these instruments was interesting, the little fluffy bales of cotton that it produced turned into a not-so-pleasant spectacle to watch.</p>
+
+<p>My personal favourite was the bicycle borne knife sharpeners who would turn all the blunt instruments at home into ready-to-kill weapons. Sadly, my mother never really let me use them for the intended purpose, insisting for some reason that knives belonged in the kitchen.</p>
+
+<p>While food delivery may well be a multibillion-dollar business today and it certainly adds to our options, the sheer charm of taking your own flour to the several tandoors that dotted cities such as Delhi and watching them being turned into rotis in those smouldering ovens was a different experience altogether. Adding to it were the dals and the kadhi, slow-cooked to perfection in the same ovens and packed with a generous dollop of ghee on top. When you opened the container at home, the fragrance wafted through the entire house.</p>
+
+<p>One big difference between these people and all of those who are part of today’s gig economy is that they were all self-employed. As such they didn't have to share their earnings with anyone except perhaps with the colony guards who occasionally demanded a small bribe for letting them publicise their wares with appropriate calls. But then they didn’t have the benefit of venture capital and private equity either. Comparisons are odious, but I wonder how these hardworking vendors would have prospered if they had similar backing.</p>
+
+<p>Different times though. Fifty years ago, India's GDP was barely $70 billion. Today, just the gig economy is estimated to be around $250 billion and expected to grow to $455 billion by 2023 (ASSOCHAM estimates).</p>
+
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>Internet will be the new-age highway of knowledge economy</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Sudhir Chowdhary</p>
+<p style="font-size: 13px;">Updated: March 22, 2021 12:45 AM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Economy4.jpg">
+<p style="text-align: center; font-size: 15px;">Satyam Darmora, Founder, i2e1</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<h3>i2e1's technology reduces cost by more than 90% and creates additional revenue streams to increase revenues by more than 500%.</h3>
+
+<p>Founded in 2015, i2e1 was incubated in IIT Delhi by Satyam Darmora. Recently it announced the launch of the industry-first Public Data Office (PDO), with a vision to bolster the government's PM-WANI initiative. Keeping in mind the model of PCO (Public Communication Office) booths across India, these PDOs are designed with a similar business model. These internet booths will establish, maintain and operate Wi-Fi Access Points and deliver broadband services to subscribers. Darmora spoke to Sudhir Chowdhary on his vision of creating over 1 million Wi-Fi hotspots across India and his aim to provide free internet to 500 million people. <b>Excerpts:</b></p>
+
+<h3 style="font-weight: bold;">How is the brand playing a major role in fruition of PM WANI initiative?</h3>
+
+<p>i2e1 set up India's first PDO under the PM WANI scheme on January 23 this year. Since then more than 4,000 PDOs have been launched. In a very short time, we have witnessed income increase for small retailers by 15-20%, while millions of people have access to faster and cheaper internet.</p>
+
+<p>i2e1's affordable and customisable technology stack makes it possible to start a PDO with as less as Rs 250 per month. We are also offering these services to device manufacturers, other PDOAs, ISPs, etc. In a short time, we have partnered with more than 25 such organisations. Thus we are confident of delivering 30-40% of the total market that will be created under the PM WANI initiative.</p>
+
+<p>We have been playing an important role in knowledge sharing with ecosystem players, who have shown interest in joining hands with PM WANI, by carrying out multiple knowledge sharing sessions with industry players and creating innovative go to market strategies. For example, we would soon be launching a training programme for small retailers in collaboration with one of the largest skill training companies in the country. Here the retailers will be trained in setting up and managing a PDO so that they can increase their monthly income. Similarly, we are investing in long term scientific studies with leading universities across the world to quantify multiple other benefits of the PM WANI model.</p>
+
+<h3 style="font-weight: bold;">What is the idea behind creating over 1 million Wi-Fi hotspots across India?</h3>
+
+<p>By setting up 1 million hotspots across the country, we want to enable 500 million people with easy access to high speed internet for free. Under the PM WANI initiative, the government wants to set up 10 million hotspots. However, for this we need affordable yet robust technology. i2e1 is committed to bringing down the cost of technology and has created innovative business models that help scale up PDO models really fast.</p>
+
+<h3 style="font-weight: bold;">What is your broad strategy towards digitising India and connecting citizens?</h3>
+
+<p>Internet will be the new age highway of knowledge economy. A World Bank study suggests that 10% increase in internet penetration can lead to GDP growth by 1%. However, a large section of the country cannot afford high speed wired broadband. The 4G plans have a daily limit of 1.5 GB, while online classes itself can consume 3 to 4 GB per day per child.</p>
+
+<p>Hence, under the PM WANI architecture, i2e1 intends to create faster and cheaper internet for the next 500 million population. Today, i2e1 is able to provide 50 Mbps unlimited internet per day for just Rs 5. For the entire month, users can get unlimited high speed internet for just Rs 50. This will ensure that more citizens connect to the internet and use it to full advantage.</p>
+
+<p>In the next two years, we plan to scale to four cities with more than 400K hotspots. This will provide high speed internet to more than 2 million users daily. This model can be replicated across cities ensuring digitalisation across the country.</p>
+
+<h3 style="font-weight: bold;">What is the technology superiority you have over others?</h3>
+
+<p>i2e1's technology reduces cost by more than 90% and creates additional revenue streams to increase revenues by more than 500%. Our technology is not only affordable but very robust and this has been validated by more than 10K clients that include large telecom operators as well as large internet companies across world.</p>
+
+<p>This has been achieved by virtualising most of the hotspot router capabilities, thereby creating a complete plug-n-play solution. Also, our machine learning and artificial intelligence based solutions allow for multiple revenue streams. The company has already filed for patents and there are many more to come.</p>
+
+
+</body>
+</html>

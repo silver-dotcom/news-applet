@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="file:style.css">
+</head>
+
+<body>
+
+
+<h1 style="font-size: 60px; font-weight: bold;">CYBER SECURITY</h1>
+
+<p></p>
+<hr></hr><hr></hr>
+<h1>Police warn students to avoid science website</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Sean Coughlan</p>
+<p style="font-size: 13px;">Updated: March 20, 2021 12:53 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:CS1.jpg">
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>Police have warned students in the UK against using a website that they say lets users "illegally access" millions of scientific research papers.</p>
+
+<p>The City of London police's Intellectual Property Crime Unit says using the Sci-Hub website could "pose a threat" to students' personal data. The police are concerned that users of the "Russia-based website" could have information taken and misused online.</p>
+
+<p>The Sci-Hub website says it "removes all barriers" to science. It offers open access to more than 85 million scientific papers and claims that copyright laws should be abolished and that such material should be "knowledge to all". It describes itself as "the first pirate website in the world to provide mass and public access to tens of millions of research papers".</p>
+
+<h3>University 'threat'</h3>
+
+<p>But Max Bruce, the City of London police's cyber protection officer, has urged universities to block the website on their networks because of the "threat posed by Sci-Hub to both the university and its students".</p>
+
+<p>"If you're tricked into revealing your log-in credentials, whether it's through the use of fake emails or malware, we know that Sci-Hub will then use those details to compromise your university's computer network in order to steal research papers," he said.</p>
+
+<p>The City of London Police, which is the national lead for fraud, has warned that students studying online at home might be vulnerable. "Students should be aware that accessing such websites is illegal, as it hosts stolen intellectual property," said Det Insp Kevin Ives. He warned that visitors to the website, whose Twitter account has been suspended, are "very vulnerable to having their credentials stolen".</p>
+
+<h3>'Access to research'</h3>
+
+<p>The police warning says scientific papers could have been obtained by a "variety of malicious means, such as the use of phishing emails to trick university staff and students into divulging their login credentials". But the Sci-Hub website has previously told the BBC that it provides students with access to research papers for which the subscriptions are "very expensive".</p>
+
+<p>Andrew Pitts, chief executive of the PSI Registry, which highlights "academic piracy", has warned that users "may inadvertently download potentially dangerous content from this illegal site and put the security of their organisations at risk".</p>
+
+<p>The National Cyber Security Centre, part of the GCHQ intelligence service, has warned of the threat of cyber-attacks against universities. Last autumn the cyber-agency warned of online attacks attempting to "derail" the start of the academic year in universities.</p>
+
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>Highway authority, automakers asked to tighten IT security after cyber attack threats </h1>
+<hr></hr>
+<p style="font-size: 13px;">By Mayur Nanda</p>
+<p style="font-size: 13px;">Updated: March 22, 2021 01:31 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:CS2.jpg">
+<p style="text-align: center; font-size: 15px;">Minsitry of Road Transport and Highways advised security audits on a regular basis</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>The Ministry of Road Transport and Highways on Sunday alerted NHAI, NHIDCL and its other wings besides automobile makers to augment their IT security systems after reports regarding threats of possible cyber attacks targeted at the Indian transport sector.</p>
+
+<p>The ministry said it has received an alert from the Indian Computer Emergency Response Team (CERT-In) about possible cyber attacks.</p>
+
+<p>"The Ministry of Road Transport and Highways received an alert from CERT-In regarding targeted intrusion activities directed towards Indian Transport sector with possible malicious intentions. The Ministry has advised departments and organisations under transport sector to strengthen the security posture of their infrastructure," the Ministry said in a statement.</p>
+
+<p>It has requested NIC, National Highways Authority of India (NHAI), National Highways and Infrastructure Development Corporation (NHIDCL), Indian Road Congress (IRC), Indian Academy of Highway Engineers (IAHE), State PWDs, Testing agencies and Automobile manufacturers to conduct the security audit of the entire IT system by CERT-In certified agencies.</p>
+
+<p>It advised such security audits on a regular basis besides taking all actions as per their recommendations.</p>
+
+
+
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>Russian pleads guilty to Tesla ransomware plot</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Anjali Dugar</p>
+<p style="font-size: 13px;">Updated: March 21, 2021 05:52 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<p></p>
+<center><img src="file:CS3.jpg">
+<p style="text-align: center; font-size: 15px;">California-based company Tesla makes electric cars</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>A Russian man in the US has pleaded guilty to plotting to extort money from the electric car company Tesla. Egor Igorevich Kriuchkov is accused of offering an employee $1m (£721,000) to place ransomware in the computer network of the company's battery plant in Nevada. He planned to use the ransomware to steal company secrets for extortion, prosecutors alleged.</p>
+
+<p>The 27-year-old pleaded guilty on Thursday in Reno, Nevada.</p>
+
+<p>Mr Kriuchkov acted on behalf of criminals abroad and tried to bribe a Tesla employee in person, prosecutors said.</p>
+
+<p>Ransomware attacks companies or organisations by scrambling their internal computer networks, stealing information or locking users out. The attackers then demand large sums of money in return for ending the hack.</p>
+
+<p>The FBI said the planned attack on Tesla was stopped before it could take place. Mr Kriuchkov told a court in September that the Russian government was aware of the planned hack, but the FBI and lawyers have not alleged that there were ties to the Kremlin.</p>
+
+<p>"The swift response of the company and the FBI prevented a major exfiltration of the victim company's data and stopped the extortion scheme at its inception," Acting Assistant Attorney General Nicholas McQuaid said in a statement.</p>
+
+<p>Mr Kruichokov was in the US for five weeks on a tourist visa in July and August last year when he tried to recruit the Tesla employee, according to court documents reported in US media.</p>
+
+<p>He was quoted as saying that he and his co-conspirators would steal the data, and if Tesla refused to pay the ransom the company's secrets would be placed on the internet.</p>
+
+<p>The US Department of Justice said that he took the employee out for drinks multiple times and gave him a phone. After the employee told Tesla about the plan, the company contacted the FBI who instructed the employee to record their conversations with Mr Kruichokov.</p>
+
+<p>Mr Kruichokov faces up to ten months in prison after signing a deal with prosecutors to plead guilty, according to technology website The Record.</p>
+
+
+</body>
+</html>
