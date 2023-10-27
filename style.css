@@ -1,0 +1,77 @@
+body
+{
+	margin-top: 30px;
+	margin-bottom: 50px;
+	background-color: white;
+}
+p
+{
+	font-size: 19px;
+	margin-right: 150px;
+	margin-left: 150px;
+	font-family: 'Times New Roman', serif;
+}
+h1
+{
+	font: 50 px;
+	text-align: left;
+	margin-right: 150px;
+	margin-left: 150px;
+	font-weight: bold;
+	background-color: red;
+	color: white;
+	font-family: 'Times New Roman', serif;
+}
+h3
+{
+	font: 25px;
+	text-align: left;
+	margin-right: 150px;
+	margin-left: 150px;
+	font-weight: bold;
+	color: red;
+	font-family: 'Times New Roman', serif;
+}
+img
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200;
+	height: 750;
+}
+hr
+{
+	display: block;
+	margin-before: 20em;
+	margin-after: 0.5em;
+	margin-start: auto;
+	margin-end: auto;
+	overflow: hidden;
+	border-style: inset;
+	border-width: 5px;
+}
+ul
+{
+	font-size: 19px;
+	margin-right: 150px;
+	margin-left: 150px;
+	font-family: 'Times New Roman', serif;
+	list-style-type: circle;
+}
+ul li
+{
+	font-family: 'Times New Roman', serif;
+	padding: 10px;
+}
+ol
+{
+	font-size: 19px;
+	margin-right: 150px;
+	margin-left: 150px;
+	font-family: 'Times New Roman', serif;
+}
+ol li
+{
+	font-family: 'Times New Roman', serif;
+	padding: 10px;
+}

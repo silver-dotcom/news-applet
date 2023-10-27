@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="file:style.css">
+</head>
+
+<body>
+
+
+<h1 style="font-size: 60px; font-weight: bold;">SPACE</h1>
+
+<p></p>
+<hr></hr><hr></hr>
+<h1>Bacteria found on International Space Station named after Indian scientist Seyed Ajmal Khan</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Mohana Basu</p>
+<p style="font-size: 13px;">Updated: March 21, 2021 09:04 AM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Space1.jpg">
+<p style="text-align: center; font-size: 15px;">The International Space Station</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<h3>Bacteria aboard International Space Station aid in plant growth</h3>
+<p>Four species of bacteria have been discovered onboard the International Space Station (ISS), one of which has been named after Indian biodiversity scientist Seyed Ajmal Khan.</p>
+
+<p>Researchers from the University of Hyderabad, working with NASA, have described the discovery and isolation of four strains of bacteria belonging to the family Methylobacteriaceae from different locations aboard the ISS.</p>
+
+<p>While one strain was identified as Methylorubrum rhodesianum bacteria, the other three strains were previously undiscovered. The team of researchers have proposed to call one of the novel strains as Methylobacterium ajmalii, after Seyed Ajmal Khan, who is a professor at the Annamalai University in Tamil Nadu.</p>
+
+<p>The rod-shaped bacteria found in ISS are involved in nitrogen fixation, plant growth and biocontrol activity against plant pathogens. According to the researchers, this bacteria may hold the key to growing crops in space. However, further experimental biology is needed to prove that it is, indeed, a potential game-changer for space farming.</p>
+
+<p>To grow plants in extreme places where resources are minimal, isolation of novel microbes that help to promote plant growth under stressful conditions is essential.</p>
+
+<p>As part of an ongoing surveillance mission, eight locations on the ISS are regularly monitored for bacterial growth. While hundreds of bacterial samples from the ISS have been analysed to date, approximately 1,000 have been collected from various other locations on the space station but are awaiting a trip back to earth where they can be examined.</p>
+
+
+
+
+
+
+
+
+
+<p></p><p></p>
+<hr></hr><hr></hr>
+<h1>NASA's Perseverance rover records sounds of a drive on Mars</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Jonathan Amos</p>
+<p style="font-size: 13px;">Updated: March 19, 2021 11:53 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Space2.jpg">
+<p style="text-align: center; font-size: 15px;">Metal on rock: The sound of Perseverance driving on Mars</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>Nasa's Perseverance rover has extended its Martian playlist.</p>
+
+<p>After sending back sounds of the wind and the zaps of its laser, the robot has just recorded the noise coming from its metal wheels as they clank across the planet's rocky surface.</p>
+
+<p>"If I heard these sounds driving my car, I'd pull over and call for a tow," joked Dave Gruel, a lead engineer working the rover's cameras and microphones.</p>
+
+<p>Perseverance has two recording devices. They were included on the robot to give the public a keener sense of what Mars is like, but they also have some scientific value. The nature of the sounds says something about the physical properties of the surface - how hard or how soft the rocks are, for example.</p>
+
+<p>The newly released recording was made during a 27m drive by Perseverance on 7 March. The media at the top of this page is an abridged version of a sequence that runs for 16 minutes in raw form.</p>
+
+<p>Sounds come across a little differently on Mars compared with Earth, due to the much reduced air pressure and contrasting composition. The sounds can seem somewhat muffled. The noise from the wheels is certainly loud, though.</p>
+
+<p>In amongst the clatter, engineers say they can hear a kind of scratching noise, the source of which they are still trying to identify. They are not sure if this is electromagnetic interference from one of the rover's electronics boxes or just another aspect of the general rattle that is produced in the interaction between the robot's mobility system and the surface.</p>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+<p></p>
+<center><img src="file:Space3.jpg">
+<p style="text-align: center; font-size: 15px;">Engineers have been trying to identify a location to fly the helicopter</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>Perseverance landed in Mars' Jezero Crater on 18 February. Most of its time since has been spent testing all its systems, tools and instruments. An immediate goal is a helicopter experiment. The rover brought a small chopper with it from Earth. The vehicle is looking for a suitable stretch of terrain where the 2kg device, called Ingenuity, can be put safely on the ground. At present, the aircraft is slung beneath Perseverance's belly.</p>
+
+<p>Nasa says engineers have now identified a likely location which they will discuss in more detail in a briefing on Tuesday next week. The team behind Ingenuity will be given 30 Martian days, or sols (31 Earth days), to conduct up to five test flights.</p>
+
+<p>Once complete, the main mission can begin. Perseverance is on Mars to search for signs of past life and to collect rocks that can be sent back to Earth later this decade.</p>
+
+<p>An early destination for the robot will be the remains of a delta - a structure built up from the silt and sand dumped by a river as it enters a wider body of water.</p>
+
+<p>In Jezero's case, this wider body was very likely a crater-wide lake that existed billions of years ago.</p>
+
+
+
+
+
+
+p></p><p></p>
+<hr></hr><hr></hr>
+<h1>India, France working on the 3rd Joint Space Mission, says ISRO Chairman</h1>
+<hr></hr>
+<p style="font-size: 13px;">By Press Trust of India</p>
+<p style="font-size: 13px;">Updated: March 20, 2021 01:08 PM IST</p>
+<hr style="width: 81%; margin-top: 8px; margin-bottom: 20px;"></hr>
+
+<center><img src="file:Space4.jpg">
+<p style="text-align: center; font-size: 15px;">India and France are working on their third joint satellite mission, ISRO Chairman K Sivan said</p>
+</center>
+
+<hr style="width: 81%; margin-top: 15px;"></hr>
+
+<p>According to ISRO officials, ISRO and French space agency CNES (Centre National dEtudes Spatiales) have undertaken two joint missions 'Megha-Tropiques', which was launched in 2011, and 'Saral-Altika' in 2013. "Currently, we are working for the third one (mission)", Dr Sivan said.</p>
+
+<p>India and France are working on their third joint satellite mission, even as the bilateral space collaboration is entering into multiple domains, including human spaceflight programme, ISRO Chairman K Sivan said.</p>
+
+<p>Dr Sivan, also Secretary in the Department of Space, said many French companies are keen to tap into opportunities thrown up by recent reforms injected into the space sector by the Government.</p>
+
+<p>"France is the biggest partner of India in space", he said at the DST (Department of Science and Technology) Golden Jubilee Discourse on 'unlocking India's space potential - geospatial data & mapping', an event presented on virtual mode by the National Council for Science and Technology Communication and 'Vigyan Prasar' on Friday.</p>
+
+<p>According to ISRO officials, ISRO and French space agency CNES (Centre National dEtudes Spatiales) have undertaken two joint missions 'Megha-Tropiques', which was launched in 2011, and 'Saral-Altika' in 2013.</p>
+
+<p>"Currently, we are working for the third one (mission)", Dr Sivan said.</p>
+
+<p>Officials said ISRO and CNES have completed the feasibility study to realise the earth observation satellite mission with thermal infrared imager, TRISHNA (Thermal infraRed Imaging Satellite for High resolution Natural resource Assessment) and are working towards finalising an implementing arrangement for the joint development.</p>
+
+<p>Dr Sivan said India is also working with France on joint experiments and accommodation of scientific instruments in space missions. "Indo-French space collaboration is expanding into multiple domains including space exploration and human space flight programme," he said.</p>
+
+<p>ISRO officials said the two space agencies have also finalised all interface control documents for accommodating CNES's 'ARGOS' instrument in ISROs OCEANSAT-3 satellite. ARGOS instrument has been delivered at Bengaluru for integration with the satellite. "Discussions on establishing 'NavIC' (an independent regional navigation satellite system developed and maintained by India) reference station in France and CNES 'Scintillation' receivers in India are also progressing well", they said.</p>
+
+<p>ISRO-CNES HSP (Human Space Programme) Working Group had a number of discussions on medical aspects of human spaceflight and finalising an implementation arrangement to formalise cooperation in the field of space medicine, it was noted.</p>
+
+<p>Dr Sivan said with the recent reforms initiated by the government in the space sector, the Indo-French space cooperation is expected to grow further involving industries, academia and research institutes.</p>
+
+<p>He said many French companies want to "make use of" reforms in the sector and "they are going to involve".</p>
+
+<p>So, the reforms would not only strengthen space cooperation at government-to-government level but industry- to-industry interaction is going to get a "fresh relook" in the changed environment, Dr Sivan added.</p>
+
+
+</body>
+</html>
